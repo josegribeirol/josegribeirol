@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![https://www.linkedin.com/in/joseguilhermelopes](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![Twitteraa](https://img.shields.io/badge/Twitter-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+
 
 
 ### Hi there 👋
