@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **josegribeirol/josegribeirol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![linkedin](https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+
+
+### Hi there 👋
+
+- Currently attending a Master's degree in Statistics at the University of Oslo
+- Languages: R, SQL
+
+- Develop: SQL Database, Power BI, Power Apps and Power Automate
