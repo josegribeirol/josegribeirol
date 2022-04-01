@@ -31,8 +31,10 @@ https://simpleicons.org/
 
 ### Academic Education
 
-🇧🇷 University of Brasilia - Statistics
-🇮🇹 Sapienza Università di Roma - Computer Science
-🇳🇴 University of Oslo - Statistics
+:brazil: University of Brasilia - Statistics
+
+:it: Sapienza Università di Roma - Computer Science
+
+:norway: University of Oslo - Statistics
 
 
