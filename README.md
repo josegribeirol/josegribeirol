@@ -23,11 +23,16 @@ https://simpleicons.org/
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/josegribeirol)
 
 
-
-
 ### Hi there 👋
 
-- Currently attending a Master's degree in Statistics at the University of Oslo
 - Languages: R, SQL
 
 - Develop: SQL Database, Power BI, Power Apps and Power Automate
+
+### Academic Education
+
+🇧🇷 University of Brasilia - Statistics
+🇮🇹 Sapienza Università di Roma - Computer Science
+🇳🇴 University of Oslo - Statistics
+
+
