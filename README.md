@@ -24,17 +24,3 @@ https://simpleicons.org/
 
 
 ### Hi there 👋
-
-- Languages: R, SQL
-
-- Develop: SQL Database, Power BI, Power Apps and Power Automate
-
-### Academic Education
-
-:brazil: University of Brasilia - Statistics
-
-:it: Sapienza Università di Roma - Computer Science
-
-:norway: University of Oslo - Statistics
-
-
